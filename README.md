@@ -32,23 +32,35 @@ Standards used in controlling DSDM agile projects.
 
 ### 2.1 Pre-project
 
+* `1 Pre-project - Project roles summary (PROJECT_CODE)`
 * `1 Pre-project - Terms of reference (PROJECT_CODE)`
 
 
 ### 2.2 Feasibility
 
 * `2 Feasibility - Outline business case (PROJECT_CODE)`
+* `2 Feasibility - Outline plan for foundations (PROJECT_CODE)`
 * `2 Feasibility - PAQ (PROJECT_CODE)`
 
 
 ### 2.3 Foundations
 
+* `3 Foundations - PRL (PROJECT_CODE)`
+
 * `3 Foundations - BAD business (PROJECT_CODE)`
 * `3 Foundations - DAD development (PROJECT_CODE)`
-* `3 Foundations - Delivery control pack (PROJECT_CODE)`
 * `3 Foundations - MAD management (PROJECT_CODE)`
-* `3 Foundations - PRL (PROJECT_CODE)`
 * `3 Foundations - SAD system (PROJECT_CODE)`
+* `3 Foundations - Delivery control pack (PROJECT_CODE)`
+
+* `3 Foundations - Business case (PROJECT_CODE)`
+* `3 Foundations - Delivery plan (PROJECT_CODE)`
+*
+* `3 Foundations - Communications plan (PROJECT_CODE)`
+* `3 Foundations - Stakeholder engagement plan (PROJECT_CODE)`
+
+* `3 Foundations - Exception report template (PROJECT_CODE)`
+* `3 Foundations - Project status report template (PROJECT_CODE)`
 
 
 ### 2.4 Exploration, Engineering and Deployment
