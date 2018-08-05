@@ -1,6 +1,6 @@
-# DSDM project management standards (work in progress)
+# DSDM project management standards
 
-Version 0.1.0
+Version 1.0.0
 Last updated: Sunday 5 August 2018
 
 The terms MUST, MUST NOT, SHOULD, SHOULD NOT, and MAY are used in this document with the meanings found in RFC 2119: Key words for use in RFCs to indicate requirement levels.
@@ -21,14 +21,16 @@ The terms MUST, MUST NOT, SHOULD, SHOULD NOT, and MAY are used in this document 
 
 ## 1. Introduction
 
-Standards used in controlling DSDM agile projects.
+The responsitory contains the standard template documents used by the digital communications team at the [University of St Andrews](https://www.st-andrews.ac.uk/) in controlling DSDM agile projects.
 
+These documents are based on standard templates that were donated by [RADTAC](https://www.radtac.com/) under license to the DSDM Consortium, now [Agile Business Consortium](https://www.agilebusiness.org/content/foreword-0). They were adapted by the digital communications team for use on the external website programme. A lot of descriptive text used within the documents has been taken from the DSDM Atern handbook 2008.
 
+Document numbering used in the lists below is based on those used in [Appendix C](https://www.agilebusiness.org/content/appendix-c-products-detail) of the DSDM Atern handbook 2008.
 
 
 ---
 
-## 2. Filenames
+## 2. Documents
 
 ### 2.1 Pre-project
 
@@ -61,7 +63,7 @@ Standards used in controlling DSDM agile projects.
 
 ### 2.4 Exploration, Engineering and Deployment
 
-* `4.x EED - [DOCUMENT NAME] (PROJECT_CODE)`
+* `4.x EED - [DOCUMENT NAME] (PROJECT_CODE)` - Use this for additional docements in EED.
 * `4.2 EED - Solution assurance pack (PROJECT_CODE)`
 * `4.3 EED - Content migration spreadsheet template`
 * `4.3 EED - Deployment plan (PROJECT_CODE)`
